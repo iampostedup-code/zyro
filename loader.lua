@@ -1,0 +1,1 @@
+-- The main loader script (key system, or game checker for example) go here (obfuscated!)
